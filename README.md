@@ -2,11 +2,11 @@
 
 ## Introduction:
 
-I have Made this Movie App with the Help of `HTML, CSS & JavaScript`. In this Movie App you can `Watch any Movie trailers as many as you want` and You can `Search Any Movie` you like or your Favorite also you can `Select any Movie Genre` you want to watch movie also you can `Go to next, current or previous page` to `Latest Release Hollywood & Bollywood Movie Trailers from YouTube`.
+I have Made this Movie App with the Help of `HTML, CSS & JavaScript`. In this Movie App you can `Watch any Movie trailers as many as you want` and You can `Search Any Movie` you like or your Favorite also you can `Select any Movie Genre` you want to watch movie also you can `Go to next, current or previous page` to `Latest Release Hollywood & Bollywood Movie Trailers from YouTube` just made on Replit Please Check out my [**Repl**](https://replit.com/@HamzaJaffar/Movie-App-By-HTML-CSS-JAVASCRIPT-2?v=1).
 
 ## Check it out:
 
-**If u want to Chill and watch NETFLIX then I have something great for u so** [**Watch Some Movies 🍿**](https://movie-app-by-html-css-javascript-.hamzajaffar.repl.co/)
+**If u want to Chill and watch NETFLIX then I have something great for u so** [**Watch Some Movies 🍿**](https://lookmovie-shjz.vercel.app/)
 
 ## Materials Used:
 
