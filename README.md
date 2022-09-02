@@ -10,7 +10,7 @@ I have Made this Movie App with the Help of `HTML, CSS & JavaScript`. In this Mo
 
 ## Materials Used:
 
-- [`**TMDB API**`](https://www.themoviedb.org/) The Movie Database
+- [**`TMDB API`**](https://www.themoviedb.org/) The Movie Database
 - Read Movie Data from `JSON` File
 - Create a `Responsive Mobile Friendly Movie App`
 - **ENJOY & WATCH MOVIES ON MY MOVIE APP 🍿🎥**
