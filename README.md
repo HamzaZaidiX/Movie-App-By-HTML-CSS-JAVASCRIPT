@@ -6,7 +6,7 @@
 
 ## Check it out:
 
-**If u want to Chill and watch `Movies` then I have something great for u so** [**Watch Some Movies 🍿**](https://lookmovie-shjz.vercel.app/)
+**If u want to Chill and watch `Movies` then I have something great for u so** [**Watch Some Movies 🍿**](https://lookmovie-shjz.netlify.app/)
 
 ## 🍿 Materials Used:
 
